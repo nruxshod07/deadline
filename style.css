@@ -1,0 +1,11 @@
+.continue {
+    display: none;
+}
+.stop {
+    display: none;
+}
+.Btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
